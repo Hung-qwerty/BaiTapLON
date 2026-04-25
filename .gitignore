@@ -12,3 +12,4 @@ nbproject/project.xml
 # File hệ thống
 .DS_Store
 Thumbs.db.gitignore
+/BaiTapLON/nbproject/private/
