@@ -4,9 +4,9 @@ import dao.DonHangDAO;
 import dao.NhaCungCapDAO;
 import model.TaiKhoan;
 import model.DonHang;
-import javax.servlet.*;
-import javax.servlet.http.*;
-import javax.servlet.annotation.WebServlet;
+import jakarta.servlet.*;
+import jakarta.servlet.http.*;
+import jakarta.servlet.annotation.WebServlet;
 import java.io.IOException;
 
 @WebServlet("/muahang/*")
