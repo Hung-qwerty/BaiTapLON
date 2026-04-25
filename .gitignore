@@ -1,0 +1,14 @@
+# Các thư mục chứa file biên dịch (không cần đẩy lên)
+build/
+dist/
+nbbuild/
+nbdist/
+
+# File cấu hình riêng của từng máy (Quan trọng: phải bỏ qua cái này)
+nbproject/private/
+nbproject/project.properties
+nbproject/project.xml
+
+# File hệ thống
+.DS_Store
+Thumbs.db.gitignore
