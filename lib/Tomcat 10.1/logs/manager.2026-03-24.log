@@ -1,0 +1,5 @@
+24-Mar-2026 01:01:55.808 INFO [http-nio-8080-exec-30] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+24-Mar-2026 01:01:55.811 INFO [http-nio-8080-exec-32] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+24-Mar-2026 01:01:55.817 INFO [http-nio-8080-exec-33] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/QuanLySinhVien'
+24-Mar-2026 01:01:56.339 INFO [http-nio-8080-exec-29] org.apache.catalina.core.ApplicationContext.log Manager: install: Installing context configuration at 'file:/C:/Users/Admin/AppData/Local/Temp/context8288973764956557648.xml'
+24-Mar-2026 01:01:56.851 INFO [http-nio-8080-exec-28] org.apache.catalina.core.ApplicationContext.log Manager: start: Starting web application '/QuanLySinhVien'

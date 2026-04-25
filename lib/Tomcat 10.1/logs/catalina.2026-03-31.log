@@ -1,0 +1,197 @@
+31-Mar-2026 09:50:07.306 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.1.50
+31-Mar-2026 09:50:07.307 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Dec 2 2025 22:57:41 UTC
+31-Mar-2026 09:50:07.308 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.1.50.0
+31-Mar-2026 09:50:07.308 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+31-Mar-2026 09:50:07.308 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+31-Mar-2026 09:50:07.308 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+31-Mar-2026 09:50:07.308 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             E:\CodeTools\Apache NetBeans\jdk
+31-Mar-2026 09:50:07.308 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           25.0.1+8-LTS
+31-Mar-2026 09:50:07.308 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Eclipse Adoptium
+31-Mar-2026 09:50:07.308 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         E:\CodeTools\Tomcat 10.1
+31-Mar-2026 09:50:07.308 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         E:\CodeTools\Tomcat 10.1
+31-Mar-2026 09:50:07.355 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=E:\CodeTools\Tomcat 10.1\conf\logging.properties
+31-Mar-2026 09:50:07.355 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+31-Mar-2026 09:50:07.355 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+31-Mar-2026 09:50:07.355 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+31-Mar-2026 09:50:07.355 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.io.useCanonCaches=false
+31-Mar-2026 09:50:07.355 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+31-Mar-2026 09:50:07.355 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang.reflect=ALL-UNNAMED
+31-Mar-2026 09:50:07.356 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+31-Mar-2026 09:50:07.356 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+31-Mar-2026 09:50:07.356 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+31-Mar-2026 09:50:07.356 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+31-Mar-2026 09:50:07.356 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=E:\CodeTools\Tomcat 10.1
+31-Mar-2026 09:50:07.356 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=E:\CodeTools\Tomcat 10.1
+31-Mar-2026 09:50:07.356 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=E:\CodeTools\Tomcat 10.1\temp
+31-Mar-2026 09:50:07.428 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [E:\CodeTools\Apache NetBeans\jdk\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;E:\CodeTools\VMware\bin\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;D:\app\Git\cmd;C:\Program Files\dotnet\;C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\\bin;C:\Program Files (x86)\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\DTS\Binn\;D:\app\Graphviz\bin;C:\msys64\ucrt64\bin;C:\Program Files\Cloudflare\Cloudflare WARP\;C:\Users\Admin\AppData\Local\Microsoft\WindowsApps;C:\Users\Admin\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Admin\.dotnet\tools;.]
+31-Mar-2026 09:50:07.634 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+31-Mar-2026 09:50:07.673 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [505] milliseconds
+31-Mar-2026 09:50:07.718 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+31-Mar-2026 09:50:07.719 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.50]
+31-Mar-2026 09:50:07.725 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [E:\CodeTools\Tomcat 10.1\conf\Catalina\localhost\bai45.xml]
+31-Mar-2026 09:50:07.748 WARNING [main] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/bai45] in deployment descriptor [E:\CodeTools\Tomcat 10.1\conf\Catalina\localhost\bai45.xml] has been ignored
+31-Mar-2026 09:50:07.980 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [E:\CodeTools\Tomcat 10.1\conf\Catalina\localhost\bai45.xml] has finished in [253] ms
+31-Mar-2026 09:50:07.981 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [E:\CodeTools\Tomcat 10.1\conf\Catalina\localhost\bai67.xml]
+31-Mar-2026 09:50:07.988 WARNING [main] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/bai67] in deployment descriptor [E:\CodeTools\Tomcat 10.1\conf\Catalina\localhost\bai67.xml] has been ignored
+31-Mar-2026 09:50:08.010 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [E:\CodeTools\Tomcat 10.1\conf\Catalina\localhost\bai67.xml] has finished in [28] ms
+31-Mar-2026 09:50:08.010 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [E:\CodeTools\Tomcat 10.1\conf\Catalina\localhost\bai89.xml]
+31-Mar-2026 09:50:08.016 WARNING [main] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/bai89] in deployment descriptor [E:\CodeTools\Tomcat 10.1\conf\Catalina\localhost\bai89.xml] has been ignored
+31-Mar-2026 09:50:08.019 SEVERE [main] org.apache.catalina.startup.HostConfig.deployDescriptor Error deploying deployment descriptor [E:\CodeTools\Tomcat 10.1\conf\Catalina\localhost\bai89.xml]
+	java.lang.IllegalStateException: Error starting child
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:600)
+		at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:569)
+		at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:665)
+		at org.apache.catalina.startup.HostConfig.deployDescriptor(HostConfig.java:629)
+		at org.apache.catalina.startup.HostConfig$DeployDescriptor.run(HostConfig.java:1878)
+		at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545)
+		at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:328)
+		at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:81)
+		at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:125)
+		at org.apache.catalina.startup.HostConfig.deployDescriptors(HostConfig.java:524)
+		at org.apache.catalina.startup.HostConfig.deployApps(HostConfig.java:415)
+		at org.apache.catalina.startup.HostConfig.start(HostConfig.java:1618)
+		at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:300)
+		at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:109)
+		at org.apache.catalina.util.LifecycleBase.setStateInternal(LifecycleBase.java:389)
+		at org.apache.catalina.util.LifecycleBase.setState(LifecycleBase.java:336)
+		at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:774)
+		at org.apache.catalina.core.StandardHost.startInternal(StandardHost.java:783)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1201)
+		at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1191)
+		at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:328)
+		at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:81)
+		at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:149)
+		at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:747)
+		at org.apache.catalina.core.StandardEngine.startInternal(StandardEngine.java:201)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		at org.apache.catalina.core.StandardService.startInternal(StandardService.java:410)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		at org.apache.catalina.core.StandardServer.startInternal(StandardServer.java:868)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		at org.apache.catalina.startup.Catalina.start(Catalina.java:758)
+		at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+		at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:342)
+		at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:473)
+	Caused by: org.apache.catalina.LifecycleException: Failed to start component [org.apache.catalina.webresources.StandardRoot@5b1ebf56]
+		at org.apache.catalina.util.LifecycleBase.handleSubClassException(LifecycleBase.java:404)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:179)
+		at org.apache.catalina.core.StandardContext.resourcesStart(StandardContext.java:4147)
+		at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:4269)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:597)
+		... 35 more
+	Caused by: java.lang.IllegalArgumentException: The main resource set specified [E:\HocTap\Nam 2 ky 2\bai89\build\web] is not a directory or war file, or is not readable (it does not exist or permissions to access it are missing)
+		at org.apache.catalina.webresources.StandardRoot.createMainResourceSet(StandardRoot.java:758)
+		at org.apache.catalina.webresources.StandardRoot.startInternal(StandardRoot.java:715)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		... 39 more
+31-Mar-2026 09:50:08.032 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [E:\CodeTools\Tomcat 10.1\conf\Catalina\localhost\bai89.xml] has finished in [22] ms
+31-Mar-2026 09:50:08.032 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [E:\CodeTools\Tomcat 10.1\conf\Catalina\localhost\baitapjava.xml]
+31-Mar-2026 09:50:08.041 WARNING [main] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/baitapjava] in deployment descriptor [E:\CodeTools\Tomcat 10.1\conf\Catalina\localhost\baitapjava.xml] has been ignored
+31-Mar-2026 09:50:08.065 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [E:\CodeTools\Tomcat 10.1\conf\Catalina\localhost\baitapjava.xml] has finished in [33] ms
+31-Mar-2026 09:50:08.066 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [E:\CodeTools\Tomcat 10.1\conf\Catalina\localhost\QuanLySinhVien.xml]
+31-Mar-2026 09:50:08.074 WARNING [main] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/QuanLySinhVien] in deployment descriptor [E:\CodeTools\Tomcat 10.1\conf\Catalina\localhost\QuanLySinhVien.xml] has been ignored
+31-Mar-2026 09:50:08.079 SEVERE [main] org.apache.catalina.startup.HostConfig.deployDescriptor Error deploying deployment descriptor [E:\CodeTools\Tomcat 10.1\conf\Catalina\localhost\QuanLySinhVien.xml]
+	java.lang.IllegalStateException: Error starting child
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:600)
+		at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:569)
+		at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:665)
+		at org.apache.catalina.startup.HostConfig.deployDescriptor(HostConfig.java:629)
+		at org.apache.catalina.startup.HostConfig$DeployDescriptor.run(HostConfig.java:1878)
+		at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545)
+		at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:328)
+		at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:81)
+		at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:125)
+		at org.apache.catalina.startup.HostConfig.deployDescriptors(HostConfig.java:524)
+		at org.apache.catalina.startup.HostConfig.deployApps(HostConfig.java:415)
+		at org.apache.catalina.startup.HostConfig.start(HostConfig.java:1618)
+		at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:300)
+		at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:109)
+		at org.apache.catalina.util.LifecycleBase.setStateInternal(LifecycleBase.java:389)
+		at org.apache.catalina.util.LifecycleBase.setState(LifecycleBase.java:336)
+		at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:774)
+		at org.apache.catalina.core.StandardHost.startInternal(StandardHost.java:783)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1201)
+		at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1191)
+		at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:328)
+		at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:81)
+		at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:149)
+		at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:747)
+		at org.apache.catalina.core.StandardEngine.startInternal(StandardEngine.java:201)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		at org.apache.catalina.core.StandardService.startInternal(StandardService.java:410)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		at org.apache.catalina.core.StandardServer.startInternal(StandardServer.java:868)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		at org.apache.catalina.startup.Catalina.start(Catalina.java:758)
+		at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+		at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:342)
+		at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:473)
+	Caused by: org.apache.catalina.LifecycleException: Failed to start component [org.apache.catalina.webresources.StandardRoot@71529963]
+		at org.apache.catalina.util.LifecycleBase.handleSubClassException(LifecycleBase.java:404)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:179)
+		at org.apache.catalina.core.StandardContext.resourcesStart(StandardContext.java:4147)
+		at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:4269)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:597)
+		... 35 more
+	Caused by: java.lang.IllegalArgumentException: The main resource set specified [D:\Downloads\thuctap3213-main\target\QuanLySinhVien] is not a directory or war file, or is not readable (it does not exist or permissions to access it are missing)
+		at org.apache.catalina.webresources.StandardRoot.createMainResourceSet(StandardRoot.java:758)
+		at org.apache.catalina.webresources.StandardRoot.startInternal(StandardRoot.java:715)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		... 39 more
+31-Mar-2026 09:50:08.126 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [E:\CodeTools\Tomcat 10.1\conf\Catalina\localhost\QuanLySinhVien.xml] has finished in [60] ms
+31-Mar-2026 09:50:08.127 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [E:\CodeTools\Tomcat 10.1\webapps\docs]
+31-Mar-2026 09:50:08.167 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [E:\CodeTools\Tomcat 10.1\webapps\docs] has finished in [40] ms
+31-Mar-2026 09:50:08.168 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [E:\CodeTools\Tomcat 10.1\webapps\manager]
+31-Mar-2026 09:50:08.216 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [E:\CodeTools\Tomcat 10.1\webapps\manager] has finished in [49] ms
+31-Mar-2026 09:50:08.216 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [E:\CodeTools\Tomcat 10.1\webapps\ROOT]
+31-Mar-2026 09:50:08.242 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [E:\CodeTools\Tomcat 10.1\webapps\ROOT] has finished in [26] ms
+31-Mar-2026 09:50:08.245 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+31-Mar-2026 09:50:08.274 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [599] milliseconds
+31-Mar-2026 09:50:08.423 INFO [http-nio-8080-exec-3] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [E:\CodeTools\Tomcat 10.1\conf\Catalina\localhost\QuanLyKho.xml]
+31-Mar-2026 09:50:08.430 WARNING [http-nio-8080-exec-3] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/QuanLyKho] in deployment descriptor [E:\CodeTools\Tomcat 10.1\conf\Catalina\localhost\QuanLyKho.xml] has been ignored
+31-Mar-2026 09:50:08.449 SEVERE [http-nio-8080-exec-3] org.apache.catalina.core.StandardContext.startInternal One or more Filters failed to start. Full details will be found in the appropriate container log file
+31-Mar-2026 09:50:08.449 SEVERE [http-nio-8080-exec-3] org.apache.catalina.core.StandardContext.startInternal Context [/QuanLyKho] startup failed due to previous errors
+31-Mar-2026 09:50:08.455 INFO [http-nio-8080-exec-3] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [E:\CodeTools\Tomcat 10.1\conf\Catalina\localhost\QuanLyKho.xml] has finished in [32] ms
+31-Mar-2026 09:55:29.919 INFO [http-nio-8080-exec-15] org.apache.catalina.util.LifecycleBase.stop The stop() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/QuanLyKho]] after stop() had already been called. The second call will be ignored.
+31-Mar-2026 09:55:30.421 INFO [http-nio-8080-exec-15] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/QuanLyKho]
+31-Mar-2026 09:55:30.434 INFO [http-nio-8080-exec-17] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [E:\CodeTools\Tomcat 10.1\conf\Catalina\localhost\QuanLyKho.xml]
+31-Mar-2026 09:55:30.441 WARNING [http-nio-8080-exec-17] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/QuanLyKho] in deployment descriptor [E:\CodeTools\Tomcat 10.1\conf\Catalina\localhost\QuanLyKho.xml] has been ignored
+31-Mar-2026 09:55:30.470 SEVERE [http-nio-8080-exec-17] org.apache.catalina.core.StandardContext.startInternal One or more Filters failed to start. Full details will be found in the appropriate container log file
+31-Mar-2026 09:55:30.472 SEVERE [http-nio-8080-exec-17] org.apache.catalina.core.StandardContext.startInternal Context [/QuanLyKho] startup failed due to previous errors
+31-Mar-2026 09:55:30.477 INFO [http-nio-8080-exec-17] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [E:\CodeTools\Tomcat 10.1\conf\Catalina\localhost\QuanLyKho.xml] has finished in [43] ms
+31-Mar-2026 09:55:31.716 INFO [http-nio-8080-exec-16] org.apache.catalina.util.LifecycleBase.stop The stop() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/QuanLyKho]] after stop() had already been called. The second call will be ignored.
+31-Mar-2026 09:55:32.217 INFO [http-nio-8080-exec-16] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/QuanLyKho]
+31-Mar-2026 09:55:32.225 INFO [http-nio-8080-exec-14] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [E:\CodeTools\Tomcat 10.1\conf\Catalina\localhost\QuanLyKho.xml]
+31-Mar-2026 09:55:32.227 WARNING [http-nio-8080-exec-14] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/QuanLyKho] in deployment descriptor [E:\CodeTools\Tomcat 10.1\conf\Catalina\localhost\QuanLyKho.xml] has been ignored
+31-Mar-2026 09:55:32.252 SEVERE [http-nio-8080-exec-14] org.apache.catalina.core.StandardContext.startInternal One or more Filters failed to start. Full details will be found in the appropriate container log file
+31-Mar-2026 09:55:32.252 SEVERE [http-nio-8080-exec-14] org.apache.catalina.core.StandardContext.startInternal Context [/QuanLyKho] startup failed due to previous errors
+31-Mar-2026 09:55:32.258 INFO [http-nio-8080-exec-14] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [E:\CodeTools\Tomcat 10.1\conf\Catalina\localhost\QuanLyKho.xml] has finished in [33] ms
+31-Mar-2026 09:59:41.472 INFO [http-nio-8080-exec-15] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/bai67]
+31-Mar-2026 10:13:34.289 INFO [http-nio-8080-exec-34] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/bai89]
+31-Mar-2026 10:13:36.359 INFO [http-nio-8080-exec-35] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [E:\CodeTools\Tomcat 10.1\conf\Catalina\localhost\bai89.xml]
+31-Mar-2026 10:13:36.364 WARNING [http-nio-8080-exec-35] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/bai89] in deployment descriptor [E:\CodeTools\Tomcat 10.1\conf\Catalina\localhost\bai89.xml] has been ignored
+31-Mar-2026 10:13:36.557 INFO [http-nio-8080-exec-35] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+31-Mar-2026 10:13:36.559 INFO [http-nio-8080-exec-35] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [E:\CodeTools\Tomcat 10.1\conf\Catalina\localhost\bai89.xml] has finished in [200] ms
+31-Mar-2026 10:13:36.561 INFO [http-nio-8080-exec-32] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/bai89]] after start() had already been called. The second call will be ignored.
+31-Mar-2026 10:43:25.392 INFO [http-nio-8080-exec-45] org.apache.catalina.util.LifecycleBase.stop The stop() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/QuanLyKho]] after stop() had already been called. The second call will be ignored.
+31-Mar-2026 10:43:25.894 INFO [http-nio-8080-exec-45] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/QuanLyKho]
+31-Mar-2026 10:43:25.904 INFO [http-nio-8080-exec-46] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [E:\CodeTools\Tomcat 10.1\conf\Catalina\localhost\QuanLyKho.xml]
+31-Mar-2026 10:43:25.911 WARNING [http-nio-8080-exec-46] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/QuanLyKho] in deployment descriptor [E:\CodeTools\Tomcat 10.1\conf\Catalina\localhost\QuanLyKho.xml] has been ignored
+31-Mar-2026 10:43:26.039 SEVERE [http-nio-8080-exec-46] org.apache.catalina.core.StandardContext.startInternal One or more Filters failed to start. Full details will be found in the appropriate container log file
+31-Mar-2026 10:43:26.039 SEVERE [http-nio-8080-exec-46] org.apache.catalina.core.StandardContext.startInternal Context [/QuanLyKho] startup failed due to previous errors
+31-Mar-2026 10:43:26.047 INFO [http-nio-8080-exec-46] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [E:\CodeTools\Tomcat 10.1\conf\Catalina\localhost\QuanLyKho.xml] has finished in [143] ms
+31-Mar-2026 10:46:18.306 INFO [http-nio-8080-exec-45] org.apache.catalina.util.LifecycleBase.stop The stop() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/QuanLyKho]] after stop() had already been called. The second call will be ignored.
+31-Mar-2026 10:46:18.807 INFO [http-nio-8080-exec-45] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/QuanLyKho]
+31-Mar-2026 10:46:18.814 INFO [http-nio-8080-exec-50] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [E:\CodeTools\Tomcat 10.1\conf\Catalina\localhost\QuanLyKho.xml]
+31-Mar-2026 10:46:18.816 WARNING [http-nio-8080-exec-50] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/QuanLyKho] in deployment descriptor [E:\CodeTools\Tomcat 10.1\conf\Catalina\localhost\QuanLyKho.xml] has been ignored
+31-Mar-2026 10:46:19.054 INFO [http-nio-8080-exec-50] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+31-Mar-2026 10:46:19.055 SEVERE [http-nio-8080-exec-50] org.apache.catalina.core.StandardContext.startInternal One or more Filters failed to start. Full details will be found in the appropriate container log file
+31-Mar-2026 10:46:19.055 SEVERE [http-nio-8080-exec-50] org.apache.catalina.core.StandardContext.startInternal Context [/QuanLyKho] startup failed due to previous errors
+31-Mar-2026 10:46:19.064 INFO [http-nio-8080-exec-50] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [E:\CodeTools\Tomcat 10.1\conf\Catalina\localhost\QuanLyKho.xml] has finished in [249] ms
+31-Mar-2026 11:32:23.651 SEVERE [main] org.apache.catalina.startup.Catalina.stopServer No shutdown port configured. Shut down server through OS signal. Server not shut down.
